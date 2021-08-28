@@ -18,7 +18,7 @@
     <string name="menu_architecture">Architecture</string>
     <string name="menu_call_service">Call Service</string>
 
-    <string name="title_basic_fragment_acctivity">Basic Fragment Activity</string>
+    <string name="title_basic_fragment_activity">Basic Fragment Activity</string>
     <string name="title_first_fragment">First Fragment</string>
     <string name="title_second_fragment">Second Fragment</string>
     <string name="title_third_fragment">Third Fragment</string>

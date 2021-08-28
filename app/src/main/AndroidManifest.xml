@@ -36,7 +36,7 @@
         <activity android:name=".ui.navigate.activity.SecondActivity" />
         <activity
             android:name=".ui.fragment.basic.BasicFragmentActivity"
-            android:label="@string/title_basic_fragment_acctivity" />
+            android:label="@string/title_basic_fragment_activity" />
         <activity
             android:name=".ui.fragment.bottom.BottomNavigationActivity"
             android:label="@string/title_activity_bottom_navigation" />
