@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">แอนดรอยด์</string>
+    <string name="btn_next">ต่อไป</string>
+    <string name="btn_done">เสร็จสิ้น</string>
+    <string name="btn_close">ปิด</string>
+
+    <string name="hint_name">ชื่อ</string>
+
+    <string name="title_first_activity">First Activity</string>
+    <string name="title_second_activity">Second Activity</string>
+
+    <string name="menu_linear_layout">Linear Layout</string>
+    <string name="menu_constraint_layout">Constraint Layout</string>
+    <string name="menu_activity_navigation">Activity Navigation</string>
+    <string name="menu_basic_fragment">Basic Fragment</string>
+    <string name="menu_bottom_navigation">Bottom Navigation</string>
+    <string name="menu_navigation_component">Navigation Component</string>
+    <string name="menu_architecture">Architecture</string>
+    <string name="menu_call_service">Call Service</string>
+
+    <string name="title_basic_fragment_acctivity">Basic Fragment Activity</string>
+    <string name="title_first_fragment">First Fragment</string>
+    <string name="title_second_fragment">Second Fragment</string>
+    <string name="title_third_fragment">Third Fragment</string>
+
+    <string name="title_activity_bottom_navigation">BottomNavigation Activity</string>
+    <string name="title_home">หน้าหลัก</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">แจ้งเตือน</string>
+
+    <string name="title_fragment_navigation">Fragment Navigation</string>
+
+    <string name="title_data_binding_activity">คำนวณหาค่าดัชนีมวลกาย (BMI)</string>
+    <string name="weight">น้ำหนัก</string>
+    <string name="height">ส่วนสูง</string>
+    <string name="btn_calculate_bmi">คำนวณ BMI</string>
+
+    <string name="new_case">ผู้ติดเชื้อเพิ่มวันนี้</string>
+    <string name="total_case">ผู้ป่วยสะสม</string>
+</resources>

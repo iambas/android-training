@@ -1,0 +1,842 @@
+[
+  {
+    "txn_date": "2021-04-01",
+    "new_case": 26,
+    "total_case": 28889,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-04-02",
+    "new_case": 58,
+    "total_case": 28947,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-04-03",
+    "new_case": 84,
+    "total_case": 29031,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-04-04",
+    "new_case": 96,
+    "total_case": 29127,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-04-05",
+    "new_case": 194,
+    "total_case": 29321,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-04-06",
+    "new_case": 250,
+    "total_case": 29571,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-04-07",
+    "new_case": 334,
+    "total_case": 29905,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-04-08",
+    "new_case": 405,
+    "total_case": 30310,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-04-09",
+    "new_case": 559,
+    "total_case": 30869,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-04-10",
+    "new_case": 789,
+    "total_case": 31658,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-04-11",
+    "new_case": 967,
+    "total_case": 32625,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-04-12",
+    "new_case": 985,
+    "total_case": 33610,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-04-13",
+    "new_case": 965,
+    "total_case": 34575,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-04-14",
+    "new_case": 1338,
+    "total_case": 35913,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-04-15",
+    "new_case": 1543,
+    "total_case": 37456,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-04-16",
+    "new_case": 1582,
+    "total_case": 39038,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-04-17",
+    "new_case": 1547,
+    "total_case": 40585,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-04-18",
+    "new_case": 1767,
+    "total_case": 42352,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-04-19",
+    "new_case": 1390,
+    "total_case": 43742,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-04-20",
+    "new_case": 1443,
+    "total_case": 45185,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-04-21",
+    "new_case": 1458,
+    "total_case": 46643,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-04-22",
+    "new_case": 1470,
+    "total_case": 48113,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-04-23",
+    "new_case": 2070,
+    "total_case": 50183,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-04-24",
+    "new_case": 2839,
+    "total_case": 53022,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-04-25",
+    "new_case": 2438,
+    "total_case": 55460,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-04-26",
+    "new_case": 2048,
+    "total_case": 57508,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-04-27",
+    "new_case": 2179,
+    "total_case": 59687,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-04-28",
+    "new_case": 2012,
+    "total_case": 61699,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-04-29",
+    "new_case": 1871,
+    "total_case": 63570,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-04-30",
+    "new_case": 1583,
+    "total_case": 65153,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-05-01",
+    "new_case": 1891,
+    "total_case": 67044,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-05-02",
+    "new_case": 1940,
+    "total_case": 68984,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-05-03",
+    "new_case": 2041,
+    "total_case": 71025,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-05-04",
+    "new_case": 1763,
+    "total_case": 72788,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-05-05",
+    "new_case": 2112,
+    "total_case": 74900,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-05-06",
+    "new_case": 1911,
+    "total_case": 76811,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-05-07",
+    "new_case": 2044,
+    "total_case": 78855,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-05-08",
+    "new_case": 2419,
+    "total_case": 81274,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-05-09",
+    "new_case": 2101,
+    "total_case": 83375,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-05-10",
+    "new_case": 1630,
+    "total_case": 85005,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-05-11",
+    "new_case": 1919,
+    "total_case": 86924,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-05-12",
+    "new_case": 1983,
+    "total_case": 88907,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-05-13",
+    "new_case": 4887,
+    "total_case": 93794,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-05-14",
+    "new_case": 2256,
+    "total_case": 96050,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-05-15",
+    "new_case": 3095,
+    "total_case": 99145,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-05-16",
+    "new_case": 2302,
+    "total_case": 101447,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-05-17",
+    "new_case": 9635,
+    "total_case": 111082,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-05-18",
+    "new_case": 2473,
+    "total_case": 113555,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-05-19",
+    "new_case": 3394,
+    "total_case": 116949,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-05-20",
+    "new_case": 2636,
+    "total_case": 119585,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-05-21",
+    "new_case": 3481,
+    "total_case": 123066,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-05-22",
+    "new_case": 3052,
+    "total_case": 126118,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-05-23",
+    "new_case": 3382,
+    "total_case": 129500,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-05-24",
+    "new_case": 2713,
+    "total_case": 132213,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-05-25",
+    "new_case": 3226,
+    "total_case": 135439,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-05-26",
+    "new_case": 2455,
+    "total_case": 137894,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-05-27",
+    "new_case": 3323,
+    "total_case": 141217,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-05-28",
+    "new_case": 3759,
+    "total_case": 144976,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-05-29",
+    "new_case": 4803,
+    "total_case": 149779,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-05-30",
+    "new_case": 4528,
+    "total_case": 154307,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-05-31",
+    "new_case": 5485,
+    "total_case": 159792,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-06-01",
+    "new_case": 2230,
+    "total_case": 162022,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-06-02",
+    "new_case": 3440,
+    "total_case": 165462,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-06-03",
+    "new_case": 3886,
+    "total_case": 169348,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-06-04",
+    "new_case": 2631,
+    "total_case": 171979,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-06-05",
+    "new_case": 2817,
+    "total_case": 174796,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-06-06",
+    "new_case": 2671,
+    "total_case": 177467,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-06-07",
+    "new_case": 2419,
+    "total_case": 179886,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-06-08",
+    "new_case": 2662,
+    "total_case": 182548,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-06-09",
+    "new_case": 2680,
+    "total_case": 185228,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-06-10",
+    "new_case": 2310,
+    "total_case": 187538,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-06-11",
+    "new_case": 2290,
+    "total_case": 189828,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-06-12",
+    "new_case": 3277,
+    "total_case": 193105,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-06-13",
+    "new_case": 2804,
+    "total_case": 195909,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-06-14",
+    "new_case": 3355,
+    "total_case": 199264,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-06-15",
+    "new_case": 3000,
+    "total_case": 202264,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-06-16",
+    "new_case": 2331,
+    "total_case": 204595,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-06-17",
+    "new_case": 3129,
+    "total_case": 207724,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-06-18",
+    "new_case": 3058,
+    "total_case": 210782,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-06-19",
+    "new_case": 3667,
+    "total_case": 214449,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-06-20",
+    "new_case": 3682,
+    "total_case": 218131,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-06-21",
+    "new_case": 3175,
+    "total_case": 221306,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-06-22",
+    "new_case": 4059,
+    "total_case": 225365,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-06-23",
+    "new_case": 3174,
+    "total_case": 228539,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-06-24",
+    "new_case": 4108,
+    "total_case": 232647,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-06-25",
+    "new_case": 3644,
+    "total_case": 236291,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-06-26",
+    "new_case": 4160,
+    "total_case": 240451,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-06-27",
+    "new_case": 3996,
+    "total_case": 244447,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-06-28",
+    "new_case": 5406,
+    "total_case": 249853,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-06-29",
+    "new_case": 4662,
+    "total_case": 254515,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-06-30",
+    "new_case": 4786,
+    "total_case": 259301,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-07-01",
+    "new_case": 5533,
+    "total_case": 264834,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-07-02",
+    "new_case": 6087,
+    "total_case": 270921,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-07-03",
+    "new_case": 6230,
+    "total_case": 277151,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-07-04",
+    "new_case": 5916,
+    "total_case": 283067,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-07-05",
+    "new_case": 6166,
+    "total_case": 289233,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-07-06",
+    "new_case": 5420,
+    "total_case": 294653,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-07-07",
+    "new_case": 6519,
+    "total_case": 301172,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-07-08",
+    "new_case": 7058,
+    "total_case": 308230,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-07-09",
+    "new_case": 9276,
+    "total_case": 317506,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-07-10",
+    "new_case": 9326,
+    "total_case": 326832,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-07-11",
+    "new_case": 9539,
+    "total_case": 336371,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-07-12",
+    "new_case": 8656,
+    "total_case": 345027,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-07-13",
+    "new_case": 8685,
+    "total_case": 353712,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-07-14",
+    "new_case": 9317,
+    "total_case": 363029,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-07-15",
+    "new_case": 9186,
+    "total_case": 372215,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-07-16",
+    "new_case": 9692,
+    "total_case": 381907,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-07-17",
+    "new_case": 10082,
+    "total_case": 391989,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-07-18",
+    "new_case": 11397,
+    "total_case": 403386,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-07-19",
+    "new_case": 11784,
+    "total_case": 415170,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-07-20",
+    "new_case": 11305,
+    "total_case": 426475,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-07-21",
+    "new_case": 13002,
+    "total_case": 439477,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-07-22",
+    "new_case": 13655,
+    "total_case": 453132,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-07-23",
+    "new_case": 14575,
+    "total_case": 467707,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-07-24",
+    "new_case": 14260,
+    "total_case": 481967,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-07-25",
+    "new_case": 15335,
+    "total_case": 497302,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-07-26",
+    "new_case": 15376,
+    "total_case": 512678,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-07-27",
+    "new_case": 14150,
+    "total_case": 526828,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-07-28",
+    "new_case": 16533,
+    "total_case": 543361,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-07-29",
+    "new_case": 17669,
+    "total_case": 561030,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-07-30",
+    "new_case": 17345,
+    "total_case": 578375,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-07-31",
+    "new_case": 18912,
+    "total_case": 597287,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-08-01",
+    "new_case": 18027,
+    "total_case": 615314,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-08-02",
+    "new_case": 17970,
+    "total_case": 633284,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-08-03",
+    "new_case": 18901,
+    "total_case": 652185,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-08-04",
+    "new_case": 20200,
+    "total_case": 672385,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-08-05",
+    "new_case": 20920,
+    "total_case": 693305,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-08-06",
+    "new_case": 21379,
+    "total_case": 714684,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-08-07",
+    "new_case": 21838,
+    "total_case": 736522,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-08-08",
+    "new_case": 19983,
+    "total_case": 756505,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-08-09",
+    "new_case": 19603,
+    "total_case": 776108,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-08-10",
+    "new_case": 19843,
+    "total_case": 795951,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-08-11",
+    "new_case": 21038,
+    "total_case": 816989,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-08-12",
+    "new_case": 22782,
+    "total_case": 839771,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-08-13",
+    "new_case": 23418,
+    "total_case": 863189,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-08-14",
+    "new_case": 22086,
+    "total_case": 885275,
+    "update_date": "2021-08-14 07:37:56"
+  },
+  {
+    "txn_date": "2021-08-15",
+    "new_case": 21882,
+    "total_case": 907157,
+    "update_date": "2021-08-15 07:38:00"
+  },
+  {
+    "txn_date": "2021-08-16",
+    "new_case": 21157,
+    "total_case": 928314,
+    "update_date": "2021-08-16 07:38:33"
+  },
+  {
+    "txn_date": "2021-08-17",
+    "new_case": 20128,
+    "total_case": 948442,
+    "update_date": "2021-08-17 07:38:13"
+  },
+  {
+    "txn_date": "2021-08-18",
+    "new_case": 20515,
+    "total_case": 968957,
+    "update_date": "2021-08-18 07:39:34"
+  }
+]

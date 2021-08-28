@@ -1,0 +1,15 @@
+- request:
+    method: GET
+    url: /
+  response:
+    status: 200
+    headers:
+      content-type: application/json
+    body: Hello World!
+
+- request:
+    method: GET
+    url: /api/Cases/timeline-cases-all
+  response:
+    status: 200
+    file: time_line_cases_all_response.json
