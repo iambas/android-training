@@ -30,6 +30,9 @@ class MainViewModel : BaseViewModel() {
     private val _navigateToCallService by lazy { MutableLiveData<Unit>() }
     val navigateToCallService: LiveData<Unit> get() = _navigateToCallService
 
+    private val _navigateToSaveKeyValueData by lazy { MutableLiveData<Unit>() }
+    val navigateToSaveKeyValueData: LiveData<Unit> get() = _navigateToSaveKeyValueData
+
     fun onLinearLayoutClicked() {
         _navigateToLinearLayout.value = Unit
     }
@@ -60,5 +63,9 @@ class MainViewModel : BaseViewModel() {
 
     fun onCallServiceClicked() {
         _navigateToCallService.value = Unit
+    }
+
+    fun onSaveKeyValueDataClicked() {
+        _navigateToSaveKeyValueData.value = Unit
     }
 }

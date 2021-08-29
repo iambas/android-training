@@ -70,6 +70,12 @@
                     android:layout_marginTop="8dp"
                     android:onClick="@{() -> viewModel.onCallServiceClicked()}"
                     android:text="@string/menu_call_service" />
+
+                <androidx.appcompat.widget.AppCompatButton
+                    style="@style/AppButton"
+                    android:layout_marginTop="8dp"
+                    android:onClick="@{() -> viewModel.onSaveKeyValueDataClicked()}"
+                    android:text="@string/menu_save_key_value_data" />
             </androidx.appcompat.widget.LinearLayoutCompat>
         </ScrollView>
 

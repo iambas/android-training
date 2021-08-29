@@ -18,6 +18,7 @@
     <string name="menu_navigation_component">Navigation Component</string>
     <string name="menu_architecture">Architecture</string>
     <string name="menu_call_service">Call Service</string>
+    <string name="menu_save_key_value_data">Save key-value data</string>
 
     <string name="title_basic_fragment_activity">Basic Fragment Activity</string>
     <string name="title_first_fragment">First Fragment</string>
@@ -35,6 +36,10 @@
     <string name="weight">น้ำหนัก</string>
     <string name="height">ส่วนสูง</string>
     <string name="btn_calculate_bmi">คำนวณ BMI</string>
+
+    <string name="title_shared_preferences_activity">Shared Preferences Activity</string>
+    <string name="save_normal">Save Normal</string>
+    <string name="save_with_encrypted">Save With Encrypted</string>
 
     <string name="new_case">ผู้ติดเชื้อเพิ่มวันนี้</string>
     <string name="total_case">ผู้ป่วยสะสม</string>

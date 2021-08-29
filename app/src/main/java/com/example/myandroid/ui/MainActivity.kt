@@ -11,6 +11,7 @@ import com.example.myandroid.ui.layout.ConstraintLayoutActivity
 import com.example.myandroid.ui.layout.LinearLayoutActivity
 import com.example.myandroid.ui.navigate.fragment.NavigationComponentActivity
 import com.example.myandroid.ui.navigate.activity.FirstActivity
+import com.example.myandroid.ui.shared_preferences.SharedPreferencesActivity
 import org.koin.androidx.viewmodel.ext.android.viewModel
 
 class MainActivity : BaseActivity() {
@@ -53,6 +54,9 @@ class MainActivity : BaseActivity() {
             navigateToCallService.observe(owner, {
                 navigateToCallService()
             })
+            navigateToSaveKeyValueData.observe(owner, {
+                navigateToSaveKeyValueData()
+            })
         }
     }
 
@@ -86,5 +90,9 @@ class MainActivity : BaseActivity() {
 
     private fun navigateToCallService() {
         CovidActivity.startIntent(this)
+    }
+
+    private fun navigateToSaveKeyValueData() {
+        SharedPreferencesActivity.startIntent(this)
     }
 }

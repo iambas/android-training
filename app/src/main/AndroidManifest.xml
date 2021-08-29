@@ -48,6 +48,9 @@
             android:name=".ui.architecture.ArchitectureActivity"
             android:label="@string/title_data_binding_activity" />
         <activity android:name=".ui.permission.PermissionActivity" />
+        <activity
+            android:name=".ui.shared_preferences.SharedPreferencesActivity"
+            android:label="@string/title_shared_preferences_activity" />
     </application>
 
 </manifest>
