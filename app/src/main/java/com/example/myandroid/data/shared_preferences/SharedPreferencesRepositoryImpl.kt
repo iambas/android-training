@@ -18,7 +18,7 @@ class SharedPreferencesRepositoryImpl constructor(
         }
 
     override var saveWithEncrypted: String?
-        get() = prefs.getString(KEY_SAVE_WITH_ENCRYPTED, "")
+        get() = encyptedPrefs.getString(KEY_SAVE_WITH_ENCRYPTED, "")
         set(value) {
             if (value == null) {
                 encyptedPrefs.edit().remove(KEY_SAVE_WITH_ENCRYPTED).apply()
