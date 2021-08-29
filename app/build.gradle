@@ -88,6 +88,9 @@ dependencies {
     implementation "androidx.navigation:navigation-fragment-ktx:$nav_version"
     implementation "androidx.navigation:navigation-ui-ktx:$nav_version"
 
+    // Security-crypto: https://developer.android.com/topic/security/data
+    implementation("androidx.security:security-crypto:1.0.0")
+
     // okhttp: https://square.github.io/okhttp/
     def okhttp_version = '4.9.1'
     implementation "com.squareup.okhttp3:okhttp:$okhttp_version"
